@@ -1,0 +1,8 @@
+matplotlib==3.8.4
+numpy==2.2.1
+pandas==2.2.3
+ray==2.40.0
+scikit_learn==1.6.0
+scipy==1.15.0
+torch==2.5.1
+tqdm==4.67.1
