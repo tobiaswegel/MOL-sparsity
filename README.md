@@ -1,6 +1,6 @@
 # Learning Pareto manifolds in high dimensions: How can regularization help?
 
-[![arXiv](TODO)](TODO)
+[![arXiv](https://img.shields.io/badge/stat.ML-arXiv%3A2503.08849-B31B1B.svg)](https://arxiv.org/abs/2503.08849)
 [![Python 3.11.8](https://img.shields.io/badge/python-3.11.8-blue.svg)](https://python.org/downloads/release/python-3118/)
 [![Pytorch 2.5.1](https://img.shields.io/badge/pytorch-2.5.1-green.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -10,7 +10,6 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contact](#contact)
-* [Citation](#citation)
 
 
 ## Overview
